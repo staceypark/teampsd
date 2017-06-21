@@ -209,8 +209,8 @@ In 6 small groups, we will draw a graph with time on the x-axis and level of a s
 
 ## Discussion with Dr. David Lounsbury
 <img src="https://cdn.rawgit.com/lzim/teampsd/teampsd_style/Team_PSD_logo.png" width="650" height="350">
-**www.github.com/lzim/teampsd**
+www.github.com/lzim/teampsd
 
-**www.lindseyzimmerman.com**
+www.lindseyzimmerman.com
 
 @LZPhD
