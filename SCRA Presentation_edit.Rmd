@@ -1,0 +1,216 @@
+---
+title: '<img src="https://cdn.rawgit.com/lzim/teampsd/teampsd_style/Team_PSD_logo.png" width="740" height="450">'
+output:
+  ioslides_presentation: default
+  html_document: default
+  github_document: default
+  pdf_document: default
+  slidy_presentation: default
+  word_document: default
+date: "June 21, 2017"
+---
+
+# Participatory
+**McKenzie Javorka, B.A.**
+**Dominique Malebranche, M.A.**
+
+
+## Complexity
+<img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_teamwork_749610_003F72.svg" width="720" height="540">
+
+
+## Mental Model
+<img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_psychology_576012_003F72.svg" width="720" height="540">
+
+
+## Learning Loop
+<img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_synchronize_778914_003F72.svg" width="360" height="270"><img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_feedback_651873_003F72.svg" width="360" height="270">
+
+
+## Individual's mental models are incomplete 
+<img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_team-building_1016130_003F72.svg" width="600" height="450">
+
+
+##Modeling to Learn: Stakeholders are Interconnected
+<img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_hierarchy_884692_003F72.svg" width="720" height="540">
+
+
+## Dialogue in a Modeling Process
+<img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_communication_884666_003F72.svg" width="720" height="540">
+
+
+## Make Dynamic Interconnections Explicit
+<img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_share_884712_003F72.svg" width="720" height="540">
+
+
+## Develop New Shared System Insights
+<img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_idea_884671_003F72.svg" width="720" height="540">
+
+
+## Elephant
+<img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_elephant_287094_003F72.svg" width="720" height="540">
+
+
+## Shared Vision
+<img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_psychology_576012_003F72.svg" width="360" height="270"><img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_feedback_750723_003F72.svg" "width="360" height="270">
+
+
+## Putting it Together
+<img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_molecule_784555_003F72.svg" width="720" height="540">
+
+
+## Synthesis
+<img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_alliance_640897_003F72.svg" width="720" height="540">
+
+
+# System
+**Alexandra Ballinger, B.A.**
+
+## Complex
+<img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_teamwork_749610_003F72.svg" width="720" height="540">
+
+
+## Interconnected 
+<img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_team_981174_003F72.svg" width="720" height="540">
+
+
+## Structure Determines Behavior 
+<img src="https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_slinky_48148_003F72.svg" width="720" height="540">
+
+
+## Function of a System 
+<img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_roofless-car_564275_003F72.svg" width="720" height="540">
+
+
+## System Components 
+<img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_car-tire_811766_003F72.svg" width="240" height="180"> <img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_car-battery_811720_003F72.svg" width="240" height="180"> <img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_car-keys_811748_003F72.svg" width="240" height="180"> <img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_steering-wheel_167223_003F72.svg" width="240" height="180"><img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_roofless-car_564275_003F72.svg" width="312" height="234">
+
+
+## Interconnectedness and Multifinality
+<img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_molecule_784555_003F72.svg" width="720" height="540">
+
+
+## Eliciting mental models 
+<img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_communication_884666_003F72.svg" width="600" height="450">
+
+
+## Zooming in and out 
+<img src="https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_collapse_926266_003F72.svg" width="360" height="270"> <img src="https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_view_926267_003F72.svg" width="360" height="270">
+
+
+## Developing a System Story 
+<img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_full-network_674171_003F72.svg" width="720" height="540">
+
+
+## Graphs Over Time 
+
+In 6 small groups, we will draw a graph with time on the x-axis and level of a system variable on the y-axis. 
+
+<img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_graph_87995_003F72.svg" width="240" height="180">
+
+* Group 1: Morale
+* Group 2: Turnover
+* Group 3: Providers Trained in EBPs
+* Group 4: Students in Clinic 
+* Group 5: Provider Availability to start EBPs
+* Group 6: No Shows 
+
+# Dynamics
+**Swap Mushiana, M.S.**
+
+
+## Positive Feedback
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_feedback_651874_003F72.svg width="720" height="540">
+
+
+## Negative Feedback
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_feedback_651876_003F72.svg width="720" height="540">
+
+
+## Role of Delays  
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_redo_993290_003F72.svg width="720" height="540">
+
+
+## Traffic 
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_traffic_924177_003F72.svg width="720" height="540"> 
+
+
+## Static Observation 
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_interactive-bar-chart_151004_003F72.svg width="720" height="540">
+
+
+## Dynamic Observation
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_line-chart_544281_003F72.svg width="600" height="450">
+
+
+## Nonlinear System Behavior - Exponential Growth
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_graph_87995_003F72.svg width="600" height="450">
+
+
+## Nonlinear System Behavior - Steady State
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_graph_88002_003F72.svg width="600" height="450">
+
+
+## System Behavior – Oscillation
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_sine-wave_385866_003F72.svg width="720" height="540">
+
+
+# Model 
+**Melissa London, M.A.**
+
+
+## Healthcare
+<img src= "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_hospital_547435_772432.svg" width="720" height="540">
+
+
+## Traffic Jam 
+<img src="https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_traffic_924177_003F72.svg" width="720" height="540">
+
+
+## Stock and Flow
+<img src="https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_washing_514155_003F72.svg" width="720" height="540">
+
+
+## Static Observation 
+<img src="https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_bar-chart-decline_869492_003F72.svg" width="720" height="540">
+
+
+## Dynamic Observation Over Time
+<img src="https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_line-chart_544281_003F72.svg" width="600" height="450">
+
+
+## Modeling to Learn
+<img src="https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_communication_884666_003F72.svg" width="720" height="540">
+
+
+## System Behaviors
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_graph_87995_003F72.svg width="360" height="270"><img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_graph_88002_003F72.svg width="360" height="270">
+
+
+## Local Data
+<img src="https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_slinky_48148_003F72.svg" width="360" height="270"><img src="https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_settings_339117_003F72.svg" width="360" height="270">
+
+
+## Feedback
+<img src="https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_feedback_651873_003F72.svg" width="720" height="540">
+
+
+## Synthesis
+<img src="https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_alliance_640897_003F72.svg" width="720" height="540">     
+
+
+## Learning Loop
+<img src="https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_idea_884671_003F72.svg" width="600" height="450">
+
+
+## Putting it Together
+<img src=https://cdn.rawgit.com/LZIM/teampsd/hexagon_icons/np_molecule_784555_003F72.svg width="600" height="450">
+
+
+## Discussion with Dr. David Lounsbury
+<img src="https://cdn.rawgit.com/lzim/teampsd/teampsd_style/Team_PSD_logo.png" width="650" height="350">
+**www.github.com/lzim/teampsd**
+
+**www.lindseyzimmerman.com**
+
+@LZPhD
