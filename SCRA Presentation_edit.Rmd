@@ -1,5 +1,5 @@
 ---
-title: '<img src="https://cdn.rawgit.com/lzim/teampsd/teampsd_style/Team_PSD_logo.png" width="740" height="450">'
+title: '<img src="https://cdn.rawgit.com/lzim/teampsd/blob/teampsd_style/Team_PSD_logo.svg" width="740" height="450">'
 output:
   ioslides_presentation: default
   html_document: default
