@@ -18,7 +18,9 @@ Go through the quick guide in the link below. It will teach you how about reposi
 https://guides.github.com/activities/hello-world/
 
 ### **Creating Files**  
-For syntax and style guidelines, refer to r_markdown_cheatsheet.pdf, which you can find in this branch. Again, name files in all lowercase with underscores as needed. You can also refer to other files in the repository for assistance. To view the file's code, simply click "Raw" in the top right corner of the file, next to "Blame" and "History." *Do not create files in the master branch*
+For syntax and style guidelines, refer to r_markdown_cheatsheet.pdf, which you can find in this branch. Again, name files in all lowercase with underscores as needed. You can also refer to other files in the repository for assistance. To view the file's code, simply click "Raw" in the top right corner of the file, next to "Blame" and "History."  
+*Please do not create files in the master branch*
 
 ### **Uploading Files**  
-To upload files, simply choose the branch that you want to upload to and upload the file. The file will be named as it was in your computer, so make sure to give the file a name that is simple and reflective of its contents to anyone that reads the file name.  *Do not upload files to the master branch*
+To upload files, simply choose the branch that you want to upload to and upload the file. The file will be named as it was in your computer, so make sure to give the file a name that is simple and reflective of its contents to anyone that reads the file name.  
+*Please do not upload files to the master branch*
