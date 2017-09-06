@@ -1,3 +1,15 @@
+title: "GitHub User Guide"
+author: "Stacey Park"
+date: "August 31, 2017"
+output:
+  html_document: default
+  ioslides_presentation: default
+  mode: self-contained
+  pdf_document: default
+  slidy_presentation: default
+  
+  
+
 # Acronyms List   
 
 **AAHRPP**: Association for the Accreditation of Human Research Protection Program  
