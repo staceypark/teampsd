@@ -36,13 +36,13 @@
 **HSR&D**: Health Services Research and Development Services  
 **IACUC**: Institutional Animal Care and Use Committee  
 **INAPS**: International Association of Peer Supporters  
-**IOP**: Intensive Outpatient Program
-**IPA**: Intergovernmental Personnel Act  
+**IOP**: Intensive Outpatient Program  
+**IPA**: Intergovernmental Personnel Act    
 **IRB**: Institutional Review Board  
 **JPA**: Joint Personnel Agreement  
 **LD**: Livermore Division  
-**MAT**: Medication Assisted Therapy
-**MHICM**: Mental Health Intensive Case Management
+**MAT**: Medication Assisted Therapy  
+**MHICM**: Mental Health Intensive Case Management  
 **MHTC**: Mental Health Treatment Coordinators  
 **MIRECC**: Mental Illness Research, Education, and Clinical Center  
 **MM**: Medication Management  
@@ -65,10 +65,10 @@
 **PCT**: PTSD Clinical Team  
 **PE**: Prolonged Exposure  
 **PERC**: Program Evaluation and Resource Center  
-**PHI**: Protected Health Information
+**PHI**: Protected Health Information  
 **PI**: Prinicipal Investigator  
 **PSA**: Personal Services Agreement  
-**PSD**: Participatory System Dynamics  
+**PSD**: Participatory System Dynamics   
 **QI**: Quality Improvement  
 **R&DC**:  Research and Development Committee  
 **RDIS**: Research and Development Information System  
@@ -83,8 +83,8 @@
 **SRS**: Subcommittee on Research Safety  
 **SU**: Stanford University  
 **SUD**: Substance Use Disorder  
-**UI**: User Interface
-**VA**: Veterans Affairs  
+**UI**: User Interface  
+**VA**: Veterans Affairs    
 **VAPAHCS**: Veterans Affairs Palo Alto Health Care System  
 **VAPOR**: Veterans Advisory Partnership for Operations and Research  
 **VERC**: Veterans Engineering Resource Center  
@@ -93,6 +93,6 @@
 **VISTA**: Veterans Health Information Systems and Technology Architecture  
 **WCC**: Women's Counseling Center  
 **WRIISC**: War Related Illness & Injury Study Center  
-**WRVU**: Work Relative Value Unit
+**WRVU**: Work Relative Value Unit  
 **X Waiver**: Needed to prescribe buprenorphine; must complete training and still limits # of patients per physician that can receive bup  
 
