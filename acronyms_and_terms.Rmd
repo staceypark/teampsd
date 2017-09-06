@@ -3,10 +3,9 @@ title: "GitHub User Guide"
 author: "Stacey Park"
 date: "August 21, 2017"
 output:
+  github_document: default
   html_document: default
   ioslides_presentation: default
-  mode: self-contained
-  pdf_document: default
   slidy_presentation: default
 ---
 
