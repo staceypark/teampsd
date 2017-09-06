@@ -74,6 +74,9 @@
 **RDIS**: Research and Development Information System  
 **rJPA**: Reverse Joint Personnel Agreement  
 **SAIL**: Strategic Analytics for Improvement and Learning  
+**Sankey**: A type of flow diagram where the width of the arrows are proportional to the flow quantity  
+**"Say File"**: GitHub file for the facilitators to read from  
+**"See File"**: GitHub file for learners to look at at  
 **SME**: Subject Matter Expert  
 **SMI**: Serious Mental Illness  
 **SRC**: Scientific Review Committee  
@@ -91,8 +94,5 @@
 **WCC**: Women's Counseling Center  
 **WRIISC**: War Related Illness & Injury Study Center  
 **WRVU**: Work Relative Value Unit
+**X Waiver**: Needed to prescribe buprenorphine; must complete training and still limits # of patients per physician that can receive bup  
 
-**Sankey**:
-**X Waiver**:
-**"See File"**:
-**"Say File"**:
