@@ -1,0 +1,17 @@
+---
+title: "Icon File"
+author: "Stacey Park"
+date: "October 2017"
+output: 
+  github_document: default
+  html_document: default
+  ioslides_presentation: default
+  slidy_presentation: default
+  pdf_document: default
+---
+## NP Alliance 640897 003F72  
+<img src = "https://raw.githubusercontent.com/lzim/teampsd/hexagon_icons/np_alliance_640897_003F72.svg">  
+
+## NP Alliance 640897 003F72  
+## NP Alliance 640897 003F72   
+## NP Alliance 640897 003F72  
