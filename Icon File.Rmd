@@ -10,7 +10,7 @@ output:
   pdf_document: default
 ---
 ## NP Alliance 640897 003F72  
-<img src = "https://raw.githubusercontent.com/lzim/teampsd/hexagon_icons/np_alliance_640897_003F72.svg">  
+<img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_alliance_640897_003F72.svg">  
 
 ## NP Alliance 640897 003F72  
 ## NP Alliance 640897 003F72   
