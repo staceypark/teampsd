@@ -22,15 +22,15 @@ output:
 <img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_alliance_640897_C4262E.svg">  
 
 ## np_bar-chart-decline_869492_003F72  
-<img scr = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_bar-chart-decline_869492_003F72.svg">  
+<img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_bar-chart-decline_869492_003F72.svg">  
 
 ## np_bar-chart-decline_869492_0083BE  
-<img scr = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_bar-chart-decline_869492_0083BE.svg">  
+<img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_bar-chart-decline_869492_0083BE.svg">  
 
 ## np_bar-chart-decline_869492_772432  
-<img scr = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_bar-chart-decline_869492_772432.svg">  
+<img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_bar-chart-decline_869492_772432.svg">  
 
 ## np_bar-chart-decline_869492_C4262E  
-<img scr = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_bar-chart-decline_869492_C4262E.svg">  
+<img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_bar-chart-decline_869492_C4262E.svg">  
 
 
