@@ -10,5 +10,5 @@ output:
   pdf_document: default
 ---
 
-## Meeting 10/17/2017  
+## Meeting 10/17/2017 Photo 1 of 1  
 <img src = "facilitation_1of1_2017_10_17.JPG">
