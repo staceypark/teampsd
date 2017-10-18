@@ -11,4 +11,4 @@ output:
 ---
 
 ## Meeting 10/17/2017 Photo 1 of 1  
-<img src = "facilitation_1of1_2017_10_17.JPG">
+<img src = "https://github.com/lzim/teampsd/blob/photos/facilitation_1of1_2017_10_17.JPG">
