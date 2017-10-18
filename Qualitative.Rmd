@@ -1,0 +1,17 @@
+---
+title: "Qualitative Coding Meeting Photos"
+author: "Stacey Park"
+date: "October 2017"
+output: 
+  github_document: default
+  html_document: default
+  ioslides_presentation: default
+  slidy_presentation: default
+  pdf_document: default
+---
+
+## Meeting 10/17/2017 Photo 1 of 2    
+<img src = "https://raw.githubusercontent.com/lzim/teampsd/photos/qualitative_1of2_2017_10_17.jpg">  
+
+## Meeting 10/17/2017 Photo 2 of 2  
+<img src = "https://raw.githubusercontent.com/lzim/teampsd/photos/qualitative_2of2_2017_10_17.jpg">  
