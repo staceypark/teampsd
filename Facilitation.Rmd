@@ -1,0 +1,14 @@
+---
+title: "Facilitation Meeting Photos"
+author: "Stacey Park"
+date: "October 2017"
+output: 
+  github_document: default
+  html_document: default
+  ioslides_presentation: default
+  slidy_presentation: default
+  pdf_document: default
+---
+
+## Meeting 10/17/2017  
+<img src = "facilitation_1of1_2017_10_17.JPG">
