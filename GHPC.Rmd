@@ -10,7 +10,16 @@ output:
   pdf_document: default
 ---
 ## Meeting 10/13/2017 Photo 1 of 4  
-<img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_alliance_640897_003F72.svg">   
+<img src = "https://raw.githubusercontent.com/lzim/teampsd/photos/ghpc_1of4_2017_10_13.jpg">  
+
+## Meeting 10/13/2017 Photo 2 of 4  
+<img src = "https://raw.githubusercontent.com/lzim/teampsd/photos/ghpc_2of4_2017_10_13.jpg">  
+
+## Meeting 10/13/2017 Photo 3 of 4  
+<img src = "https://raw.githubusercontent.com/lzim/teampsd/photos/ghpc_3of4_2017_10_13.jpg">  
+
+## Meeting 10/13/2017 Photo 4 of 4  
+<img src = "https://raw.githubusercontent.com/lzim/teampsd/photos/ghpc_4of4_2017_10_13.jpg">  
 
 
 
