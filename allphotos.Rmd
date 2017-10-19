@@ -36,4 +36,8 @@ Photo 1 of 2
 Photo 2 of 2  
 <img src = "https://raw.githubusercontent.com/lzim/teampsd/photos/qualitative_2of2_2017_10_17.jpg">  
 
+### Process Improvement
+Photo 1 of 1
+<img src = "https://raw.githubusercontent.com/lzim/teampsd/photos/improvement_1of1_2017_10_17.jpeg">
+
 
