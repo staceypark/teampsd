@@ -27,7 +27,7 @@ Photo 4 of 4
 ## 2017/10/17  
 ### Facilitation  
 Photo 1 of 1  
-<img src = "https://github.com/lzim/teampsd/blob/photos/facilitation_1of1_2017_10_17.JPG">  
+<img src = "https://raw.githubusercontent.com/lzim/teampsd/photos/facilitation_1of1_2017_10_17.JPG">  
 
 ### Qualitative  
 Photo 1 of 2  
@@ -38,6 +38,22 @@ Photo 2 of 2
 
 ### Process Improvement
 Photo 1 of 1
-<img src = "https://raw.githubusercontent.com/lzim/teampsd/photos/improvement_1of1_2017_10_17.jpeg">
+<img src = "https://raw.githubusercontent.com/lzim/teampsd/photos/improvement_1of1_2017_10_17.jpeg">  
+
+## 2017/10/24  
+### Facilitation  
+Photo 1 of 1  
+<img src = "https://raw.githubusercontent.com/lzim/teampsd/photos/facilitation_1of1_2017_10_24.JPG">  
+
+
+### VAPOR  
+Photo 1 of 3  
+<img src = "https://raw.githubusercontent.com/lzim/teampsd/photos/vapor_1of3_2017_10_24.jpeg">  
+
+Photo 2 of 3  
+<img src = "https://raw.githubusercontent.com/lzim/teampsd/photos/vapor_2of3_2017_10_24.JPG">  
+
+Photo 3 of 3  
+<img src = "https://raw.githubusercontent.com/lzim/teampsd/photos/vapor_3of3_2017_10_24.JPG">  
 
 
