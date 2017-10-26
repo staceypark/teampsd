@@ -50,10 +50,10 @@ Photo 1 of 1
 Photo 1 of 3  
 <img src = "https://raw.githubusercontent.com/lzim/teampsd/photos/vapor_1of3_2017_10_24.jpeg">  
 
-Photo 2 of 3  
+Photo 2 of 3  
 <img src = "https://raw.githubusercontent.com/lzim/teampsd/photos/vapor_2of3_2017_10_24.JPG">  
 
-Photo 3 of 3  
+Photo 3 of 3    
 <img src = "https://raw.githubusercontent.com/lzim/teampsd/photos/vapor_3of3_2017_10_24.JPG">  
 
 
