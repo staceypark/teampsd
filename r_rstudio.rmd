@@ -1,18 +1,37 @@
-# R i386 3.4.2
-# R x64 3.4.2
-# R Studio
-CORE BLDG 334
+# R i386 3.4.2  
+### CORE BLDG 334  
+C122 (LZ's office)  
+* MPD-WS148673 (LZ's computer)  
+* MPD-WS136412  
 
-C122 (Lindsey's Computer)
-MPD-WS148673
+C127 (moving from left to right when facing the desks)  
+* MPD-WS160966  
+* MPD-WS148674  
+* MPD-WS136405  
 
-C122 (Lindsey's office)
-MPD-WS136412
+# R x64 3.4.2  
+### CORE BLDG 334  
+C122 (LZ's office)  
+* MPD-WS148673 (LZ's computer)  
+* MPD-WS136412  
+
+C127 (moving from left to right when facing the desks)  
+* MPD-WS160966  
+* MPD-WS148674  
+* MPD-WS136405  
+
+# R Studio  
+### CORE BLDG 334  
+C122 (LZ's office)  
+* MPD-WS148673 (LZ's computer)  
+* MPD-WS136412  
+
+C127 (moving from left to right when facing the desks)  
+* MPD-WS160966  
+* MPD-WS148674  
+* MPD-WS136405  
 
 
-C127 (moving from left to right when facing the desks)
 
-MPD-WS160966
-MPD-WS148674
-MPD-WS136405
+
 
