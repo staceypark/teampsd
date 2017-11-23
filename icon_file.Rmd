@@ -9,17 +9,12 @@ output:
   slidy_presentation: default
   pdf_document: default
 ---
-## np_alliance_640897_003F72 
-<img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_alliance_640897_003F72.svg">   
 
-## np_alliance_640897_0083BE  
-<img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_alliance_640897_0083BE.svg">  
+Attribution | np_alliance_640897_003F72 | np_alliance_640897_0083BE | np_alliance_640897_772432 | np_alliance_640897_C4262E
+---|---|---|---|---
+Alliance by Sean Maldjian | <img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_alliance_640897_003F72.svg"> | <img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_alliance_640897_0083BE.svg"> | <img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_alliance_640897_772432.svg"> | <img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_alliance_640897_C4262E.svg">
 
-## np_alliance_640897_772432  
-<img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_alliance_640897_772432.svg">  
 
-## np_alliance_640897_C4262E  
-<img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_alliance_640897_C4262E.svg">  
 
 ## np_bar-chart-decline_869492_003F72  
 <img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_bar-chart-decline_869492_003F72.svg">  
