@@ -16,4 +16,5 @@ Bar Graph Static Observation | Bar Chart Decline by Trevor Dsouza | <img src = "
 
 
 Title | Attribution | Navy Blue | Light Blue | Dark Red | Light Red
+---|---|---|---|---|---
 Synthesis | Alliance by Sean Maldjian | np_alliance_640897_003F72  <img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_alliance_640897_003F72.svg"> | np_alliance_640897_0083BE  <img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_alliance_640897_0083BE.svg"> | np_alliance_640897_772432  <img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_alliance_640897_772432.svg"> | np_alliance_640897_C4262E  <img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_alliance_640897_C4262E.svg">
