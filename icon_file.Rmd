@@ -12,8 +12,7 @@ output:
 
 Title | Attribution | np_alliance_640897_003F72 | np_alliance_640897_0083BE | np_alliance_640897_772432 | np_alliance_640897_C4262E
 ---|---|---|---|---|---
-Synthesis | Alliance by Sean Maldjian | <img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_alliance_640897_003F72.svg"> | <img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_alliance_640897_0083BE.svg"> | <img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_alliance_640897_772432.svg"> | <img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_alliance_640897_C4262E.svg">
-
+Synthesis | Alliance by Sean Maldjian | <img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_alliance_640897_003F72.svg"> | <img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_alliance_640897_0083BE.svg"> | <img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_alliance_640897_772432.svg"> | <img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_alliance_640897_C4262E.svg">  
 
 Title | Attibution | np_bar-chart-decline_869492_003F72 | np_bar-chart-decline_869492_0083BE | np_bar-chart-decline_869492_772432 | np_bar-chart-decline_869492_C4262E
 ---|---|---|---|---
