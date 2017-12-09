@@ -1,0 +1,17 @@
+---
+title: "Facilitation Icons"
+author: "Stacey Park"
+date: "December 2017"
+output: 
+  github_document: default
+  html_document: default
+  ioslides_presentation: default
+  slidy_presentation: default
+  pdf_document: default
+---
+
+Facilitation| Title | Attribution | Navy Blue | Light Blue | Dark Red | Light Red
+---|---|---|---|---|---|---
+Our Question (dialogue)| xyz |  |
+
+np_communication_884666_003F72 <img src = "https://cdn.rawgit.com/lzim/teampsd/hexagon_icons/np_communication_884666_003F72.svg">
