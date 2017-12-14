@@ -78,36 +78,40 @@ When you explore scenarios like this, you run the simulation to better understan
 
 We aim to learn from modeling simulations to improve the day-to-day care coordination and quality improvement decisions in this team.   
 
-Care Coordination Introduction - when cpt.CPTCode in ('t1016','90832','90839') then 'Care or support'
+## Care Coordination Introduction
+**when cpt.CPTCode in ('t1016','90832','90839') then 'Care or support'**
 We start with care coordination visits to begin to examine causal dynamics in care and start our learning with a service that all disciplines can equally understand.
 
-1. Care Coordination Patient and Appointment States and Rates (Stock and Flow Diagram)
+**1. Care Coordination Patient and Appointment States and Rates (Stock and Flow Diagram)**
 *States/Stocks (rectangles)* depict and calculate where material or informational resources in the clinic accumulate over time. This accumulation creates system lags or delays. In the figure below, there are two stocks “Appointments in CC” (units = # of CC appointments in the team’s clinics/grids) and “Patients in CC” (units = # of CC patients in the team). 
 Hint: Here is the equation for calculating the variable “Patients in CC” = “Starting CC Rate” – “Ending CC Rate.”
 
 *Rates/Flows (faucet icons)* depict and calculate the rate of change in and out of these states (inflows/outflows).  There are four rates below.  What are they? 
 Hint: Two rates are calculated as patients/week and two rates are calculated as appointments/week.
 
-Black font = calculated variables.  There are six calculated variables in the figure below.
-Red font = the team data you selected using “Data for Simulation.” 
+*Black font* = calculated variables.  There are six calculated variables in the figure below.
+*Red font* = the team data you selected using “Data for Simulation.” 
 
-What variable is a team data input below?*
+**What variable is a team data input below?**  
+Hint: There is not an equation for red font parameter values, the team data is read in to the model from the data you select.  There are a total of six team parameter values that are put in the Care Coordination model (the rest of the variables are calculated/calibrated against the six data inputs). The red font data inputs for care coordination are (definitions in parentheses):  
 
-Hint: There is not an equation for red font parameter values, the team data is read in to the model from the data you select.  There are a total of six team parameter values that are put in the Care Coordination model (the rest of the variables are calculated/calibrated against the six data inputs).  
-The red font data inputs for care coordination are (definitions in parentheses):
-•	True CC Missed Appointment Percentage (for the clinics you select)
-•	Team Data on CC Return Visit Interval (RVI) (for the visits in the clinics you select)
-•	Baseline CC Appointment Supply (75% of typical CC slot usage for the clinics you select).
-•	Team Data on Patient Starts (patients with a new CC visit in the clinics you select).
-•	Team Data on New Patient Wait Time 
-•	Median Engagement Time in CC (*This is the answer to the team input question above).
+*	True CC Missed Appointment Percentage (for the clinics you select)
+*	Team Data on CC Return Visit Interval (RVI) (for the visits in the clinics you select)
+*	Baseline CC Appointment Supply (75% of typical CC slot usage for the clinics you select).
+*	Team Data on Patient Starts (patients with a new CC visit in the clinics you select).
+*	Team Data on New Patient Wait Time 
+*	Median Engagement Time in CC (*This is the answer to the team input question above).
 
 *Blue lines* depict and calculate the dynamic relationships between patients and appointments. In a system dynamics model, dynamic relationships are causal relationships that changes over time. We describe two primary types of dynamic relationships (+/-) below. However, note that most causal relationships in a system occur among several interdependent variables and not just between two variables like the examples below.
 
 **+ sign** indicates a causal relationship between two variables in which one variable generates more of the other variable.  For example, you would read the blue arrow on the far left in the following way:  “As the rate of patients starting increases in patients/week, then the booking of CC appointments increases in appointments/week.” OR “As the rate of patients starting CC decreases, then the booking of CC appointments decreases.  This type of causal relationship leads to growth or decline (e.g., vicious and virtuous cycles).
 
-**- sign** indicates a causal relationship between two variables that move in opposite directions. As one variable rises (increases), the other variable falls (its effect decreases the other variable).  OR as one variable decreases, its effect increases the other variable. This type of causal relationship keeps the dynamic relationship between to the two variables in balance or steady. How would you read the figure to describe the influence of the “Median engagement Time in CC (in weeks) on the “Ending CC Rate?” 
+**- sign** indicates a causal relationship between two variables that move in opposite directions. As one variable rises (increases), the other variable falls (its effect decreases the other variable).  OR as one variable decreases, its effect increases the other variable. This type of causal relationship keeps the dynamic relationship between to the two variables in balance or steady. 
+
+**How would you read the figure to describe the influence of the “Median engagement Time in CC (in weeks) on the “Ending CC Rate?”**
 Hint: Here is the equation for calculating the “Ending CC Rate” = Patients in CC/Median Engagement Time in CC.
+
+<img src = https://raw.githubusercontent.com/lzim/teampsd/facilitation_guide/cc_session3_image.png>
 
 <!--Guide Icon-->
 <img src = >
