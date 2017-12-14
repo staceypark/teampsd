@@ -41,19 +41,18 @@ pdf_document: default
 * Clinical Case (5 minutes) 
 * Data Selected for Simulation (10 minutes)
 
-We want to set ground rules for our learning sessions by aligning our individual learning goals with the team.
-Let’s review the times team learning led to an ‘aha!’ or something finally made sense, or you could finally do something you couldn’t before.  What were the characteristics of the experience? 
+## We want to set ground rules for our learning sessions by aligning our individual learning goals with the team.
+Let’s review the times team learning led to an ‘aha!’ or something finally made sense, or you could finally do something you couldn’t before.  What were the characteristics of the experience?  
 
-
-
-Team Best Case Scenario – We want to create team language for learning, aligning team decisions when there are roadblocks to consensus. Together we will identify “What would be better?” in a way that reflects common team aspirations.
+## Team Best Case Scenario – We want to create team language for learning, aligning team decisions when there are roadblocks to consensus. Together we will identify:  
+“What would be better?” in a way that reflects common team aspirations.
 
 Identifying a shared purpose can be deeply motivating, it requires mutual respect to find common ground and it is something to be created over time together, not just one time. Team learning is all about ‘alignment’ and getting people working in synch with one another to meet the needs of our Veteran patients.
 
 Let’s review the team ideals for team learning between now and March in a ‘best case’ scenario, where things are happening in the team the way that you would ideally like them to be. This is your “dream team” situation.
 
 
-Review and Align Personal Visions across the Team:
+## Review and Align Personal Visions across the Team:
 • What is team communication like?
 • How does the team relate to one another?
 • How is VA data used?
