@@ -1,4 +1,4 @@
-**UI Comments and Questions**  
+##UI Comments and Questions  
 Please add UI comments and questions below by editing this file.  Include your name, date, view option (i.e. facilitator, team lead, player), comment, and link to image file of screenshot.  All screenshots should also be hosted on this branch.  
 
 For example:  
@@ -7,5 +7,5 @@ Stacey Park
 1/11/2018  
 View: Facilitator  
 Comments: The chat function does not work.   
-Screenshot: img src <"INSERT IMAGE URL HERE">  
+Screenshot: <img src = "INSERT IMAGE URL HERE">  
 
