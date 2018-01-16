@@ -23,7 +23,10 @@ Comment:
 2) CC has correction of "overbook percentage" but MM says "overbook amount" (near appointment supply)    
 
 Model: MM Model  
-Comment:
+Comment:  
+1) Language for X waivers: "Manual Slots Allocation by % (w X) / Manual Slots Allocation by % (no X) vs. "Change in Percentage of Appt. Slots - Provider has X-Waiver"  
+a) Wouldn't the converse of "w" be "w/o"  
+b) It goes from using "w X" language to "Provider has X-Waiver"  
 
 
 Model: All  
@@ -31,10 +34,10 @@ Comment:
 1) In expanded outputs tile, need to be consistent in the "you" language.  Under "Our hypothesis" - "Outline the systems story *your* team believes..." and Under "Our decisions" - "Based on what your team learned in this experiment, what changes *your* team ready to make..."  
 2) Make arrow bold for feedback/balancing loops like it is done in the VenSim models  
 3) Use of abbreviations are not consistent. Sometimes words are written out and sometimes they are abbreviated.  
- a) appointments vs appts  
- b) percentage vs %  
- c) additional vs add  
-
+a) appointments vs appts  
+b) percentage vs %  
+c) additional vs add  
+4) Since "loops" cannot be clicked without clicking "patients in care," there should be some way to indicate that i.e. to number it 1 and 2  
 
 
 
