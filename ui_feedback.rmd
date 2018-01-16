@@ -1,11 +1,40 @@
 ## UI Comments and Questions  
-Please add UI comments and questions below by editing this file.  Include your name, date, view option (i.e. facilitator, team lead, player), comment, and link to image file of screenshot.  All screenshots should also be hosted on this branch.  
+Please add UI comments and questions below by editing this file.  Include your name, date, view option such as facilitator, team lead, or player (as relevant), model name (as relevant) comment, and link to image file of screenshot (as needed).  All screenshots should also be hosted on this branch.  
 
 For example:  
 
 Stacey Park  
 1/11/2018  
 View: Facilitator  
-Comments: The chat function does not work.   
+Comment: The chat function does not work.   
 Screenshot: <img src = "INSERT IMAGE URL HERE">  
+
+
+Stacey Park  
+1/15/18  
+Comment:  
+1) VA PSD icon should not have blue highlight on the "Team" part  
+2) Using sentence case  
+3) Ability to return to "home page" by clicking on the VA PSD icon  
+
+Model: CC Model v. MM Model  
+Comment:  
+1) CC says "balancing existing and new patients" whereas the MM says "balancing new and existing patients"  
+2) CC has correction of "overbook percentage" but MM says "overbook amount" (near appointment supply)    
+
+Model: MM Model  
+Comment:
+
+
+Model: All  
+Comment:  
+1) In expanded outputs tile, need to be consistent in the "you" language.  Under "Our hypothesis" - "Outline the systems story *your* team believes..." and Under "Our decisions" - "Based on what your team learned in this experiment, what changes *your* team ready to make..."  
+2) Make arrow bold for feedback/balancing loops like it is done in the VenSim models  
+3) Use of abbreviations are not consistent. Sometimes words are written out and sometimes they are abbreviated.  
+ a) appointments vs appts  
+ b) percentage vs %  
+ c) additional vs add  
+
+
+
 
