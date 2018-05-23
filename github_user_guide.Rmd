@@ -35,8 +35,8 @@ Files cannot be downloaded individually - you have to download the entire branch
 2. Make sure you're in the branch you just created instead of the original branch.  Click the pencil icon to edit.  Edit the file and add comments on changes you made.  Click on "Commit".  
 ![](https://raw.githubusercontent.com/lzim/teampsd/videos/github_workflow_2.gif)  
 
-3. Go to "Pull Requests" and click on "New Pull Request". The "Base" branch should be the original branch (most likely "master").  The "Compare" branch will be the branch you created. Click on "Create a New Pull Request".  Add "Reviewers" and click on "TeamPSD" for the "Project section. Click on "Create Pull Request".  
+3. Go to "Pull Requests" and click on "New Pull Request". The "Base" branch should be the original branch (most likely "master").  The "Compare" branch will be the branch you created. Click on "Create a New Pull Request".  Add "Reviewers" and click on "TeamPSD" for the "Project section. Click on "Create Pull Request".   
 ![](https://raw.githubusercontent.com/lzim/teampsd/videos/github_workflow_3.gif)  
 
-4. To add line specific comments, click on "Files Changed".  Hover your mouse in front of the specific line in question and a blue plus sign will appear.  Click on that and add your comment.
+4. To add line specific comments, click on "Files Changed".  Hover your mouse in front of the specific line in question and a blue plus sign will appear.  Click on that and add your comment.  
 ![](https://raw.githubusercontent.com/lzim/teampsd/videos/github_workflow_4.gif)  
