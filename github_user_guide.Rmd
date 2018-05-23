@@ -34,5 +34,6 @@ Files cannot be downloaded individually - you have to download the entire branch
 <video width="320" height="240" controls>  
   <source src="https://raw.githubusercontent.com/lzim/teampsd/videos/github_workflow_1.mp4" type="video/mp4">  
 </video>
+![](https://raw.githubusercontent.com/lzim/teampsd/videos/github_workflow_1.gif)
 https://raw.githubusercontent.com/lzim/teampsd/videos/github_workflow_1.gif
 2. 
